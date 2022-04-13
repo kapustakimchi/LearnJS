@@ -1,0 +1,14 @@
+//this code should display the name John in a alert
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let admin;
+let name;
+
+name = 'John';
+admin = name;
+
+alert(admin);
+
+</script>
