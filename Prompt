@@ -1,0 +1,9 @@
+// Create a page, that asks for the user's name and display it
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let name = prompt('What is your name?');
+alert(`Your name is ${name}`);
+
+</script>
